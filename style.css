@@ -1,0 +1,153 @@
+
+body{
+	margin: 0;
+text-align: center;
+font-family:'georgia';
+
+}
+h1{
+	margin-top: 0;
+	width:30%;
+	margin: 50px auto 0 auto;
+	font-family: 'verdana';
+	font-size: 50px;
+	color: orangered;
+
+}
+em{
+	font-size: 30px;
+	color: darkblue;
+	font-weight: normal;
+
+}
+h2{
+	color: darkblue;
+	padding-bottom:20px;
+}
+h3{
+	color: darkblue;
+	padding-bottom:20px;
+}
+.top-container{
+background-color: lightblue;
+padding-top:80px;
+
+
+
+}
+
+.pro{
+	text-decoration-line: underline;
+}
+.bottom-cloud{
+	position:absolute;
+
+}
+.top-cloud{
+	position:relative;
+	left:150px;
+	bottom: 60px;
+
+}
+.skill-row{
+	width:50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.picture{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.coding{
+	width: 25%;
+	float:right;
+margin-left: 30px;
+}
+.mypic{
+	width: 20%;
+	
+}
+hr{
+	margin: 50px auto;
+	border-bottom: 0px;
+	border-width: 5px;
+	border-style: dotted;
+	width:10%;
+	border-color: mediumpurple;
+	border-top:none;
+	margin-bottom:40px;
+}
+
+
+.para{
+	width:40%;
+	margin:auto;
+}
+.middle-container{
+	margin:100px 0;
+}
+p{
+	line-height: 2;
+}
+.btn {
+  background: #21e03e;
+  background-image: -webkit-linear-gradient(top, #21e03e, #2b9eb8);
+  background-image: -moz-linear-gradient(top, #21e03e, #2b9eb8);
+  background-image: -ms-linear-gradient(top, #21e03e, #2b9eb8);
+  background-image: -o-linear-gradient(top, #21e03e, #2b9eb8);
+  background-image: linear-gradient(to bottom, #21e03e, #2b9eb8);
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 25px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #763cfc;
+  background-image: -webkit-linear-gradient(top, #763cfc, #3498db);
+  background-image: -moz-linear-gradient(top, #763cfc, #3498db);
+  background-image: -ms-linear-gradient(top, #763cfc, #3498db);
+  background-image: -o-linear-gradient(top, #763cfc, #3498db);
+  background-image: linear-gradient(to bottom, #763cfc, #3498db);
+  text-decoration: none;
+
+}
+.bottom-container{
+	background-color: royalblue;
+	padding:30px 0 10px;
+
+}
+.last{
+	width:40%;
+	margin:auto;
+}
+a{
+	font-family: 'verdana';
+	margin:10px 30px;
+	text-decoration-line: none;
+}
+a:hover{
+	color: white;
+}
+.copyright{
+	color:white;
+	font-size:15px;
+	
+}
+.name{
+	position:relative;
+	bottom:40px;
+}
+em{
+	position:relative;
+	bottom:50px;
+}
+
+
